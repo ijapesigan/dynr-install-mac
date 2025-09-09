@@ -28,7 +28,7 @@
   install.packages("dynr")
 - Test the installation with:
   ```r
-  source("https://raw.githubusercontent.com/ijapesigan/dynr-install-windows/refs/heads/main/dynr-demo.R")
+  source("https://raw.githubusercontent.com/ijapesigan/dynr-install-mac/refs/heads/main/dynr-demo.R")
 - A sucessful installation will output the following:
   ```r
   Coefficients:

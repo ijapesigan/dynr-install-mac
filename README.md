@@ -2,9 +2,9 @@
 
 ## 1. Install R
 - Download R for macOS ARM from:  
-  <https://cloud.r-project.org/bin/macosx/big-sur-arm64/base/R-4.5.1-arm64.pkg>  
+  <https://cloud.r-project.org/bin/macosx/big-sur-arm64/base/R-4.5.2-arm64.pkg>  
 - Download R for macOS Intel from:  
-  <https://cloud.r-project.org/bin/macosx/big-sur-x86_64/base/R-4.5.1-x86_64.pkg> 
+  <https://cloud.r-project.org/bin/macosx/big-sur-x86_64/base/R-4.5.2-x86_64.pkg> 
 - Double-click the `.pkg` installer and follow the prompts.
 
 ## 2. Install Xcode Command Line Tools
